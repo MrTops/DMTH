@@ -5,9 +5,9 @@
 
 """
 
-from Clear import clearScreen
-from BoxedText import generateBoxedText
-from Input import Input
+from util.Clear import clearScreen
+from util.BoxedText import generateBoxedText
+from util.Input import Input
 from time import sleep
 
 class Menu(object):
